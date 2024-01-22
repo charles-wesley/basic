@@ -1,0 +1,34 @@
+body{
+background-color: black;
+    color: white;
+    margin: 5%;
+}
+
+#map{
+    float: left;
+    width: 40%;
+
+}
+
+.form{
+     float: right;
+    width: 40%;
+border: white;
+
+
+}
+
+
+
+#form{
+    float: right;
+width: 100px%;
+border: white 1px solid;
+
+}
+
+input{
+  height: 40px;
+
+
+}

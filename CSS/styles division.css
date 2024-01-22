@@ -1,0 +1,20 @@
+#one{
+    background-color: #1a7513;
+
+mso-bidi-font-style: oblique;
+text-outline: yellow;
+}
+#two{
+    background-color: black;
+color: white;
+
+}
+
+#three{
+background-repeat: no-repeat;
+background-image: url("images/save.jpeg")
+
+
+
+}
+

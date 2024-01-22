@@ -1,0 +1,31 @@
+body{
+    background-color: #1a7513;
+
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+
+
+
+}
+
+
+.one{
+    color: white;
+
+}
+a{
+    text-decoration: none;
+    border: white 1px solid;
+    border-radius: 20px;
+    padding: 4px;
+  background-color: white;
+}
+
+a:hover{
+    color: black;
+    font-size: 30px;
+    font-family: "Droid Serif";
+}
+
