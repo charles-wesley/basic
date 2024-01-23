@@ -1,0 +1,18 @@
+1.git init
+
+2.git add
+
+3.git commit -m "message"
+
+4.git push
+
+5.git push --set-upstreeam origin master
+
+6.enter username
+
+ 7.enter password-generate classic token copy and pate(do not epect it to show on the screen)
+
+8.press enter
+
+PS:You might need to connect this shit after you initiate git. Its optional tho, I guess
+
